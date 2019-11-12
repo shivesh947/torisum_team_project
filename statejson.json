@@ -1,0 +1,18 @@
+{
+    "state": [{
+        "name": "Andaman & Nicobar",
+        "capital": "Port Blair",
+        "about": "The Andaman and Nicobar Islands located in the east of the Indian mainland geographically, float in splendid isolation in the Bay of Bengal. Once a hill range extending from Myanmar to Indonesia, these picturesque undulating islands, islets numbering around 572, are covered with dense rain-fed, damp and evergreen forests and endless varieties of exotic flora and fauna. Most of these islands (about 550) are in the Andaman Group, 28 of which are inhabited. The smaller Nicobars, comprise some 22 main islands (10 inhabited). The Andaman and Nicobars are separated by the Ten Degree Channel which is 150 Kms. wide.",
+        "climate": "The islands have a tropical climate. The South-west Monsoon sets in Andaman Nicobar islands towards the end of May and the North-east Monsoon in November. There is no fury of hot summer, no chilling winter, no water clogging or traffic jams. For those who want to enjoy boating, swimming, snorkeling, sightseeing all 12 months is season. North Indians find relief from burning heat and chilling winter if they visit the island from May/June/July and in December/January. Season for nature lovers is May to December when forest is lush green and waterfalls are at their prime. Divers can enjoy the best during December to April and bird watchers during winter times.",
+        "history": "The Andaman & Nicobar Islands have been inhabited for several thousand years, at the very least. The earlier archaeological evidence yet documented goes back some 2,200 years; however, the indications from genetic, cultural and linguistic isolation studies point to habitation going back 30,000 – 60,000 years, well into the Middle Palaeolithic. In the Andaman Islands, the various Andamanese people maintained their separated existence through the vast majority of this time, diversifying into distinct linguistic, cultural and territorial groups.",
+        "time": "Andaman has a moderate temperature all through the year within the range of 23°C to 31°C. It has a tropical climate. There are no severe climate conditions except for tropical storms and rains in late summers and monsoons.Summers (March to May) are warm but pleasant with sea breeze and have humidity level about 80%. It is suitable for all kinds of tourist activities.",
+        "tourist": [{
+                "name": "NEIL ISLAND",
+                "info": "Neil Island is one of India’s Andaman Islands, in the Bay of Bengal. Bharatpur Beach has coral reefs teeming with tropical fish. Laxmanpur Beach is known for its sunset views. Howrah Bridge is a natural rock formation accessible at low tide. Near the island’s wharf is Neil Kendra village, with a curving, sandy bay dotted with boats. Off the southeast coast, the tiny Sir Hugh Rose Island is a sanctuary for turtles.",
+                "images": "https://uploads-ssl.webflow.com/5b56319971ac8c7475a9d877/5c4f5622a29a8f65c7f25f3e_IMG_7728%20Neil%20Island%20(21).jpg"
+            }
+
+        ]
+    }]
+
+}
