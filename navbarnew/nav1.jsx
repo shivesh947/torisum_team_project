@@ -3,8 +3,8 @@ import {Link} from 'react-router-dom';
 class Nav1 extends Component
 {
   state={
-    datapass1:'',
-    datapass2:''
+    datapass1:this.props.datanav,
+    datapass2:this.props.datanav
   }
     render()
     {
@@ -20,15 +20,15 @@ class Nav1 extends Component
                 <Link class="nav-link" to={{
                   pathname: "/overview",
                   state: {
-                  datapass1: this.props.datanav
+                  datapass1: this.state.datapass1
                   }
                   }}>Overview <span class="sr-only">(current)</span></Link>
               </li>
               <li class="nav-item">
                 <Link class="nav-link" to={{
-                  pathname: "/state2",
+                  pathname: "/placetovisit",
                   state: {
-                  datapass2: this.props.datanav
+                  datapass2: this.state.datapass2
                   }
                   }}>Places To Visit</Link>
               </li>
