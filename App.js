@@ -14,6 +14,7 @@ import Addproducts from './components/addfamousproducts';
 import Displayproducts from './components/displayproducts';
 import nav1 from './components/nav1';
 import Overview from './components/navbarnew/overview';
+import Placetovisit from './components/navbarnew/placetovisit';
 
 
 class App extends Component
@@ -95,6 +96,7 @@ class App extends Component
      <Route path="/Displayproducts" component={Displayproducts}/>
      <Route path="/nav1" component={nav1}/>
      <Route path="/overview" component={Overview}/>
+     <Route path="/placetovisit" component={Placetovisit}/>
      </Switch>
 
      <Footer/>
