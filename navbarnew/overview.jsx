@@ -1,14 +1,14 @@
 import React,{ Component } from 'react';
 import Nav1 from './nav1';
 
-class Overview extends Component{
+class Placetovisit extends Component{
     render(){
         return(
         <div>
-            <Nav1 />
-            {console.log(this.props.location.state.datapass1)}
+            <Nav1 datanav={this.props.location.state.datapass2} />
+            {console.log(this.props.location.state.datapass2)}
         </div>
         )
     }
 }
-export default Overview;
+export default Placetovisit;
